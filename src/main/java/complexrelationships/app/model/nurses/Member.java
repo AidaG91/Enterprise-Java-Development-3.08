@@ -1,6 +1,6 @@
-package complexrelationships.model.model.nurses;
+package complexrelationships.app.model.nurses;
 
-import complexrelationships.model.enums.nurses.MemberStatus;
+import complexrelationships.app.enums.nurses.MemberStatus;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;

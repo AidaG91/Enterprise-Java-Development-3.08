@@ -1,4 +1,4 @@
-package complexrelationships.model.enums.nurses;
+package complexrelationships.app.enums.nurses;
 
 public enum MemberStatus {
     ACTIVE,

@@ -1,4 +1,4 @@
-package complexrelationships.model.model.nurses;
+package complexrelationships.app.model.nurses;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
