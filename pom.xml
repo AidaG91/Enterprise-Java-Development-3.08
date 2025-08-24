@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>complexrelationships</groupId>
-	<artifactId>model</artifactId>
+	<artifactId>app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>model</name>
+	<name>app</name>
 	<description>Lab: Modeling Complex Relationships </description>
 	<url/>
 	<licenses>
